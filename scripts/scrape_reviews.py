@@ -18,7 +18,7 @@ BANK_APPS = {
 }
 
 def scrape_reviews(bank_name, app_id):
-    logging.info(f"🔄 Fetching reviews for {bank_name}...")
+    logging.info(f" Fetching reviews for {bank_name}...")
 
     try:
         results, _ = reviews(
