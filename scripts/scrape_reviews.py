@@ -46,9 +46,9 @@ def scrape_reviews(bank_name, app_id):
                 })
 
                 if i % 50 == 0:
-                    logging.info(f"✍️ {bank_name}: Written {i} reviews...")
+                    logging.info(f" {bank_name}: Written {i} reviews...")
 
-        logging.info(f"✅ Saved {len(results)} reviews for {bank_name} to {filename}")
+        logging.info(f" Saved {len(results)} reviews for {bank_name} to {filename}")
 
     except Exception as e:
         logging.error(f" Error fetching reviews for {bank_name}: {e}")
