@@ -1,7 +1,7 @@
 numpy
 pandas
 matplotlib
-seaboarn
+seaborn
 nltk
 pytest
 google-play-scraper
