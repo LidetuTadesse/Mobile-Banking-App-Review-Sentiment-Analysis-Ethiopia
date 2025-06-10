@@ -7,3 +7,4 @@ pytest
 google-play-scraper
 TextBlob
 VADER
+schedule
