@@ -8,3 +8,9 @@ google-play-scraper
 TextBlob
 VADER
 schedule
+emoji
+scikit-learn
+spacy
+transformers
+torch
+datasets
