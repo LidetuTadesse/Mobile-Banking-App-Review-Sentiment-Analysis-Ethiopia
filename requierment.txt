@@ -14,3 +14,4 @@ spacy
 transformers
 torch
 datasets
+cx_Oracle
