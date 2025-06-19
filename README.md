@@ -1,7 +1,7 @@
 Mobile Banking App Review Sentiment Analysis of Ethiopin Banks
 
 This project focus on analyzing customer satisfaction with mobile banking applications in Ethiopia.
-The project collects and analyze over 1,200 real user reviews from the Google Play Store for the mobile apps of:
+The project collects and analyze over 1,500 real user reviews from the Google Play Store for the mobile apps of:
 
            1. Commercial Bank of Ethiopia (CBE)
 
